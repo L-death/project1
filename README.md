@@ -1,6 +1,6 @@
 # project1
 coding,
 
-A website Made by zohaib 
+A website Made by mob 
 
-# DEMO : https://zohaib-d.github.io/project1
+# DEMO : https://L-death.github.io/project1
